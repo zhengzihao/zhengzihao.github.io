@@ -6,7 +6,7 @@
 # 教育经历
 + 本科：广州大学-地理信息科学
 + 硕士研究生：广州大学-地图学与地理信息系统
-+ 博士研究生：帕多瓦大学-LERH program
++ 博士研究生：Università degli Studi di Padova-LERH program
 
 # 研究方向
 + 灯光遥感
