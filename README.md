@@ -16,15 +16,17 @@
 # 论文
 
 **2021**	
-1. Yang, Z., Chen, Y., Guo, G., **Zheng, Z.**, & Wu, Z. (2021). Using nighttime light data to identify the structure of polycentric cities and evaluate urban centers. Science of The Total Environment, 780, 146586.
-2. Guo, G., Wu, Z., Cao, Z., Chen, Y., & **Zheng, Z.** (2021). Location of greenspace matters: a new approach to investigating the effect of the greenspace spatial pattern on urban heat environment. Landscape Ecology, 36(5), 1533-1548.
-3. **Zheng, Z.**, Wu, Z., Chen, Y., Guo, G., Yang, Z., & Marinello, F. (2021). A Simple Method for Near-Real-Time Monthly Nighttime Light Image Production. IEEE Geoscience and Remote Sensing Letters.
+1. Yang, Z., Chen, Y., Guo, G., **Zheng, Z.**, & Wu, Z. (2021). Using nighttime light data to identify the structure of polycentric cities and evaluate urban centers. Science of The Total Environment, 780, 146586.[Access link](https://doi.org/10.1016/j.scitotenv.2021.146586)
+2. Guo, G., Wu, Z., Cao, Z., Chen, Y., & **Zheng, Z.** (2021). Location of greenspace matters: a new approach to investigating the effect of the greenspace spatial pattern on urban heat environment. Landscape Ecology, 36(5), 1533-1548.[Access link](https://doi.org/10.1007/s10980-021-01230-w)
+3. **Zheng, Z.**, Wu, Z., Chen, Y., Guo, G., Yang, Z., & Marinello, F. (2021). A Simple Method for Near-Real-Time Monthly Nighttime Light Image Production. IEEE Geoscience and Remote Sensing Letters. [Access link](https://doi.org/10.1109/LGRS.2021.3059799)
+
 **2020**
+
 4. **郑子豪**,吴志峰,陈颖彪,杨智威,& Francesco Marinello. (2021). 基于Sentinel-5P的粤港澳大湾区NO2污染物时空变化分析. 中国环境科学, 41(01):63-72.
 5. **郑子豪**,吴志峰,陈颖彪,杨智威,& Francesco Marinello. (2020). 基于Google Earth Engine的长三角城市群生态环境变化与城市化特征分析. 生态学报, 41(02):717-729.
-6. **Zheng, Z.**, Wu, Z., Chen, Y., Yang, Z., & Marinello, F. (2020). Exploration of eco-environment and urbanization changes in coastal zones: A case study in China over the past 20 years. Ecological Indicators, 119, 106847.
-7. **Zheng, Z.**, Wu, Z., Chen, Y., Yang, Z., & Marinello, F. (2020). Detection of City Integration Processes in Rapidly Urbanizing Areas Based on Remote Sensing Imagery. Land, 9(10), 378.
-8. Yang, Z., Chen, Y., **Zheng, Z.**, Huang, Q., & Wu, Z. (2020). Application of building geometry indexes to assess the correlation between buildings and air temperature. Building and Environment, 167, 106477.
+6. **Zheng, Z.**, Wu, Z., Chen, Y., Yang, Z., & Marinello, F. (2020). Exploration of eco-environment and urbanization changes in coastal zones: A case study in China over the past 20 years. Ecological Indicators, 119, 106847.[Access link](https://doi.org/10.1016/j.ecolind.2020.106847)
+7. **Zheng, Z.**, Wu, Z., Chen, Y., Yang, Z., & Marinello, F. (2020). Detection of City Integration Processes in Rapidly Urbanizing Areas Based on Remote Sensing Imagery. Land, 9(10), 378.[Access link](https://doi.org/10.3390/land9100378)
+8. Yang, Z., Chen, Y., **Zheng, Z.**, Huang, Q., & Wu, Z. (2020). Application of building geometry indexes to assess the correlation between buildings and air temperature. Building and Environment, 167, 106477.[Access link](https://doi.org/10.1016/j.buildenv.2019.106477)
 
 **2019**	
 
