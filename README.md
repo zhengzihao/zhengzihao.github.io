@@ -22,8 +22,8 @@
 
 **2020**
 
-4. **郑子豪**,吴志峰,陈颖彪,杨智威,& Francesco Marinello. (2021). 基于Sentinel-5P的粤港澳大湾区NO2污染物时空变化分析. 中国环境科学, 41(01):63-72.
-5. **郑子豪**,吴志峰,陈颖彪,杨智威,& Francesco Marinello. (2020). 基于Google Earth Engine的长三角城市群生态环境变化与城市化特征分析. 生态学报, 41(02):717-729.
+4. **郑子豪**,吴志峰,陈颖彪,杨智威,& Francesco Marinello. (2021). 基于Sentinel-5P的粤港澳大湾区NO2污染物时空变化分析. 中国环境科学, 41(01):63-72.[Access link](http://www.zghjkx.com.cn/CN/abstract/abstract17312.shtml)
+5. **郑子豪**,吴志峰,陈颖彪,杨智威,& Francesco Marinello. (2020). 基于Google Earth Engine的长三角城市群生态环境变化与城市化特征分析. 生态学报, 41(02):717-729.[Access link](http://www.ecologica.cn/stxb/ch/reader/view_abstract.aspx?flag=1&file_no=stxb202003250687&journal_id=stxb)
 6. **Zheng, Z.**, Wu, Z., Chen, Y., Yang, Z., & Marinello, F. (2020). Exploration of eco-environment and urbanization changes in coastal zones: A case study in China over the past 20 years. Ecological Indicators, 119, 106847.[Access link](https://doi.org/10.1016/j.ecolind.2020.106847)
 7. **Zheng, Z.**, Wu, Z., Chen, Y., Yang, Z., & Marinello, F. (2020). Detection of City Integration Processes in Rapidly Urbanizing Areas Based on Remote Sensing Imagery. Land, 9(10), 378.[Access link](https://doi.org/10.3390/land9100378)
 8. Yang, Z., Chen, Y., **Zheng, Z.**, Huang, Q., & Wu, Z. (2020). Application of building geometry indexes to assess the correlation between buildings and air temperature. Building and Environment, 167, 106477.[Access link](https://doi.org/10.1016/j.buildenv.2019.106477)
