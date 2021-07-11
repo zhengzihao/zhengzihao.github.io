@@ -15,10 +15,12 @@
 
 # 论文
 
-**2021**	
-1. Yang, Z., Chen, Y., Guo, G., **Zheng, Z.**, & Wu, Z. (2021). Using nighttime light data to identify the structure of polycentric cities and evaluate urban centers. Science of The Total Environment, 780, 146586.[Access link](https://doi.org/10.1016/j.scitotenv.2021.146586)
-2. Guo, G., Wu, Z., Cao, Z., Chen, Y., & **Zheng, Z.** (2021). Location of greenspace matters: a new approach to investigating the effect of the greenspace spatial pattern on urban heat environment. Landscape Ecology, 36(5), 1533-1548.[Access link](https://doi.org/10.1007/s10980-021-01230-w)
-3. **Zheng, Z.**, Wu, Z., Chen, Y., Guo, G., Yang, Z., & Marinello, F. (2021). A Simple Method for Near-Real-Time Monthly Nighttime Light Image Production. IEEE Geoscience and Remote Sensing Letters. [Access link](https://doi.org/10.1109/LGRS.2021.3059799)
+**2021**
+1. **Zheng, Z.**, Wu, Z., Chen, Y., Guo, G., Cao, Z., Yang, Z., & Marinello, F. (2021). Africa’s protected areas are brightening at night: A long-term light pollution monitor based on nighttime light imagery. Global Environmental Change, 69, 102318. [Access link](https://doi.org/10.1016/j.gloenvcha.2021.102318)
+2. Yang, Z., Chen, Y., Guo, G., **Zheng, Z.**, & Wu, Z. (2021). Characteristics of land surface temperature clusters: Case study of the central urban area of Guangzhou. Sustainable Cities and Society, 73, 103140. [Access link](https://doi.org/10.1016/j.scs.2021.103140)
+3. Yang, Z., Chen, Y., Guo, G., **Zheng, Z.**, & Wu, Z. (2021). Using nighttime light data to identify the structure of polycentric cities and evaluate urban centers. Science of The Total Environment, 780, 146586.[Access link](https://doi.org/10.1016/j.scitotenv.2021.146586)
+4. Guo, G., Wu, Z., Cao, Z., Chen, Y., & **Zheng, Z.** (2021). Location of greenspace matters: a new approach to investigating the effect of the greenspace spatial pattern on urban heat environment. Landscape Ecology, 36(5), 1533-1548.[Access link](https://doi.org/10.1007/s10980-021-01230-w)
+5. **Zheng, Z.**, Wu, Z., Chen, Y., Guo, G., Yang, Z., & Marinello, F. (2021). A Simple Method for Near-Real-Time Monthly Nighttime Light Image Production. IEEE Geoscience and Remote Sensing Letters. [Access link](https://doi.org/10.1109/LGRS.2021.3059799)
 
 **2020**
 
